@@ -1,2 +1,2 @@
-# html
-html things im gonna use when im coding at school
+# u can ignore this repo
+just using it for while im at school coding
